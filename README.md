@@ -1,4 +1,4 @@
-# SD-3101 [Canteen Management System: Optimizing Food Ordering and Inventory Management with PHP and MySQL]
+# SD-3101 Canteen Management System: Optimizing Food Ordering and Inventory Management with PHP and MySQL
 
 ![2e22ae0e-1549-48c6-806e-578a7fc99433](https://github.com/user-attachments/assets/73e65c78-67b6-4665-bd22-d9852d8df4a9)
 
@@ -90,12 +90,6 @@ Step-by-step instructions for setting up the project locally.
 ## Usage Instructions
 - **Admin**: The admin has a complete control to the system.
 - **Customer** : The customer can order food.
-
-![UI Placeholder](https://via.placeholder.com/1200x700.png?text=UI+Placeholder)
-
-Another Screenshot
-
-![UI Placeholder](https://via.placeholder.com/1200x700.png?text=UI+Placeholder)
 
 ## Project Structure
 Explain the structure of the project directory. Example:
