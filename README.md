@@ -187,3 +187,4 @@ This project was built from (https://github.com/SanchiSujithKumar/Canteen-Manage
 Specify the project's license. For starters, adapt the license of the original repository.
 "# se2024-ardeza-vitangcol" 
 "# se2024-ardeza-vitangcol" 
+"# se2024-ardeza-vitangcol" 
