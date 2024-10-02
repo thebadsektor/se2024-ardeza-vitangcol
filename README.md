@@ -1,6 +1,6 @@
 # SD-3101 [Canteen Management System: Optimizing Food Ordering and Inventory Management with PHP and MySQL]
 
-![Project Banner](https://via.placeholder.com/1200x400.png?text=Project+Banner+Placeholder)
+![2e22ae0e-1549-48c6-806e-578a7fc99433](https://github.com/user-attachments/assets/73e65c78-67b6-4665-bd22-d9852d8df4a9)
 
 ## Table of Contents
 - [Introduction](#introduction)
