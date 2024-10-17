@@ -95,7 +95,6 @@ Step-by-step instructions for setting up the project locally.
 Explain the structure of the project directory. Example:
 ```bash
 .
-└── canteen management system/
     ├── css/
     │   ├── style.css
     │   ├── style1.css
