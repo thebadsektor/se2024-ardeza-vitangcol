@@ -147,9 +147,9 @@ List all the team members involved in the project. Include their roles and respo
 Outline the project timeline, including milestones or deliverables. Example:
 
 - **Week 1-2**: Collaborative Brainstorming for Feature Development
--- 09/16/2024
--- Meeting Recording: https://youtu.be/MGo5k7BQodU
--- Proposes Features
+09/16/2024
+Meeting Recording: https://youtu.be/MGo5k7BQodU
+Proposes Features
 1. Separate Logins for Admin and Users
 2. Multiple Room Bookings
 3. Guest Reviews and Ratings
